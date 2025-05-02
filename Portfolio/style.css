@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    border: 3px solid #4b6cc1;
+    padding: 10px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#navbar-link {
+    color: white;
+}
+
+.portfolio-banner-section {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.portfolio-banner-section-img {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.portfolio-banner-title {
+    font-family: Roboto;
+    color: white;
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.bhargav-span {
+    color: #4b6cc1;
+}
+
+.portfolio-banner-caption {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.portfolio-banner-button {
+    background-color: #4b6cc1;
+    color: white;
+    height: 45px;
+    width: 130px;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 17px;
+    border-width: 0;
+
+}
+
+.about-me-section {
+    background-color: #323f4b;
+}
+
+.about-me-section-sub-heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.about-me-section-main-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.about-me-section-img {
+    width: 100%;
+}
+
+.about-me-section-content {
+    font-family: Roboto;
+    color: #9aa5b1;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skills-section-heading {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.skills-section-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+.skills-section-card-img {
+    height: 64px;
+    width: 64px;
+}
+
+.skills-section-card-heading {
+    color: white;
+    font-size: 30px;
+}
+
+.project-section {
+    background-color: #3e4c59;
+}
+
+.project-section-sub-heading {
+    color: #cced00;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.project-section-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.project-section-card {
+    background-color: #323f4b;
+}
+
+.project-section-card-img {
+    width: 100%;
+}
+
+.project-section-card-sub-title {
+    color: #9aa5b1;
+    margin-top: 10px;
+    font-family: Roboto;
+}
+
+.project-section-card-title {
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+.project-card-text {
+    padding: 15px;
+}
+
+.project-section-card-paragraphy {
+    font-family: Roboto;
+    color: #9aa5b1;
+    font-size: 23px;
+}
+
+.project-section-anchor-tag {
+    color: #cced00;
+}
+
+.services-section {
+    font-family: Roboto;
+    background-color: #52606d;
+}
+
+.services-section-sub-heading {
+    color: #cced00;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.services-section-heading {
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.services-section-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.services-section-card-img {
+    height: 50px;
+    width: 50px;
+}
+
+.services-section-card-heading {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+
+.services-section-card-sub-heading {
+    color: #9aa5b1;
+    font-size: 21px;
+}
+
+.work-done-section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    font-family: Roboto;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.work-done-section-heading {
+    color: white;
+    font-weight: 600;
+}
+
+.work-done-section-sub-heading {
+    color: white;
+    font-size: 15px;
+}
+
+.testimonials-section {
+    background-color: #1f2933;
+    font-family: Roboto;
+}
+
+.testimonials-section-sub-heading {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.testimonials-section-heading {
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.carousel-card {
+    background-color: #323f4b;
+    padding: 15px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.carousel-card-description {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.Testimonials-image {
+    width: 110px;
+    height: 110px;
+    border-radius: 500px;
+}
+
+.footer-section {
+    background-color: #001c32;
+}
+
+.footer-section-personal-details-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+
+.footer-section-personal-details-name {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer-section-personal-details-role {
+    font-family: Roboto;
+    color: #9aa5b1;
+}
+
+.icon {
+    color: #9aa5b1;
+
+}
+
+.Copyright-section {
+    background-color: #0d2436;
+}
